@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+      "outDir": "./dist",
+      "lib": ["dom", "es2016", "esnext"]
+    },
+    "include": ["./**/*.ts", "./data.json"],
+    "exclude": ["node_modules"]
+  }
+  
