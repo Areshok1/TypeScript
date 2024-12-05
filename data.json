@@ -1,0 +1,16 @@
+{
+    "professor": {
+      "id": 1,
+      "name": "John Doe",
+      "department": "Computer Science"
+    },
+    "classrooms": [
+      { "number": "101", "capacity": 30, "hasProjector": true },
+      { "number": "102", "capacity": 25, "hasProjector": false }
+    ],
+    "courses": [
+      { "id": 1, "name": "Introduction to TypeScript", "type": "Lecture" },
+      { "id": 2, "name": "Advanced Mathematics", "type": "Seminar" }
+    ]
+  }
+  
